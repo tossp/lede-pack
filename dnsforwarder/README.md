@@ -54,5 +54,12 @@ make menuconfig
 make package/dnsforwarder/compile V=99
 ```
 
+## 参考项目
+
+[matthew728960/Openwrt-Dnsforwarder-5][matthew728960]
+[alexzhuo/openwrt-dnsforwarder][alexzhuo]
+
 [a]: https://github.com/holmium/dnsforwarder
 [openwrt-sdk]: https://wiki.openwrt.org/doc/howto/obtain.firmware.sdk
+[matthew728960]: https://github.com/matthew728960/Openwrt-Dnsforwarder-5
+[alexzhuo]: https://github.com/AlexZhuo/openwrt-dnsforwarder
